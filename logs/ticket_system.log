@@ -1,0 +1,1476 @@
+Nov 30, 2024 7:33:25 AM AppLogger log
+INFO: System configuration:
+Nov 30, 2024 7:33:36 AM AppLogger log
+INFO: System configuration:
+Nov 30, 2024 7:33:59 AM AppLogger log
+INFO: Configuration complete.
+Nov 30, 2024 7:34:25 AM AppLogger log
+INFO: Starting system...
+Nov 30, 2024 7:34:25 AM AppLogger log
+INFO: No tickets available for event: Event3
+Nov 30, 2024 7:34:25 AM AppLogger log
+INFO: No tickets available for event: Event1
+Nov 30, 2024 7:34:25 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 1
+Nov 30, 2024 7:34:25 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 2
+Nov 30, 2024 7:34:25 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 3
+Nov 30, 2024 7:34:25 AM AppLogger log
+INFO: Vendor 1 released 1 tickets for event: hi
+Nov 30, 2024 7:34:25 AM AppLogger log
+INFO: Vendor 2 released 2 tickets for event: bye
+Nov 30, 2024 7:34:26 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 4
+Nov 30, 2024 7:34:26 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 5
+Nov 30, 2024 7:34:26 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 6
+Nov 30, 2024 7:34:26 AM AppLogger log
+INFO: Vendor 1 released 3 tickets for event: hi
+Nov 30, 2024 7:34:26 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 7
+Nov 30, 2024 7:34:26 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 8
+Nov 30, 2024 7:34:26 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 9
+Nov 30, 2024 7:34:26 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 10
+Nov 30, 2024 7:34:26 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 11
+Nov 30, 2024 7:34:26 AM AppLogger log
+INFO: Vendor 2 released 5 tickets for event: bye
+Nov 30, 2024 7:34:27 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 12
+Nov 30, 2024 7:34:27 AM AppLogger log
+INFO: Vendor 2 released 1 tickets for event: bye
+Nov 30, 2024 7:34:27 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 13
+Nov 30, 2024 7:34:27 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 14
+Nov 30, 2024 7:34:27 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 15
+Nov 30, 2024 7:34:28 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 16
+Nov 30, 2024 7:34:28 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 17
+Nov 30, 2024 7:34:28 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 18
+Nov 30, 2024 7:34:28 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 19
+Nov 30, 2024 7:34:28 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 20
+Nov 30, 2024 7:34:28 AM AppLogger log
+INFO: Vendor 1 released 4 tickets for event: hi
+Nov 30, 2024 7:34:29 AM AppLogger log
+INFO: No tickets available for event: Event2
+Nov 30, 2024 7:34:29 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 21
+Nov 30, 2024 7:34:29 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 22
+Nov 30, 2024 7:34:30 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 23
+Nov 30, 2024 7:34:30 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 24
+Nov 30, 2024 7:34:30 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 25
+Nov 30, 2024 7:34:30 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 26
+Nov 30, 2024 7:34:30 AM AppLogger log
+INFO: Vendor 2 released 3 tickets for event: bye
+Nov 30, 2024 7:34:31 AM AppLogger log
+INFO: No tickets available for event: Event4
+Nov 30, 2024 7:34:31 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 27
+Nov 30, 2024 7:34:31 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 28
+Nov 30, 2024 7:34:31 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 29
+Nov 30, 2024 7:34:31 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 30
+Nov 30, 2024 7:34:31 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 31
+Nov 30, 2024 7:34:31 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 32
+Nov 30, 2024 7:34:31 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 33
+Nov 30, 2024 7:34:31 AM AppLogger log
+INFO: Vendor 2 released 4 tickets for event: bye
+Nov 30, 2024 7:34:32 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 34
+Nov 30, 2024 7:34:32 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 35
+Nov 30, 2024 7:34:32 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 36
+Nov 30, 2024 7:34:32 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 37
+Nov 30, 2024 7:34:32 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 38
+Nov 30, 2024 7:34:32 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 39
+Nov 30, 2024 7:34:32 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 40
+Nov 30, 2024 7:34:32 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 41
+Nov 30, 2024 7:34:33 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 42
+Nov 30, 2024 7:34:33 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 43
+Nov 30, 2024 7:34:33 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 44
+Nov 30, 2024 7:34:33 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 45
+Nov 30, 2024 7:34:34 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 46
+Nov 30, 2024 7:34:34 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 47
+Nov 30, 2024 7:34:34 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 48
+Nov 30, 2024 7:34:34 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 49
+Nov 30, 2024 7:34:34 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 50
+Nov 30, 2024 7:34:34 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 51
+Nov 30, 2024 7:34:34 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 52
+Nov 30, 2024 7:34:34 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 53
+Nov 30, 2024 7:34:35 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 54
+Nov 30, 2024 7:34:35 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 55
+Nov 30, 2024 7:34:35 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 56
+Nov 30, 2024 7:34:35 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 57
+Nov 30, 2024 7:34:35 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 58
+Nov 30, 2024 7:34:36 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 59
+Nov 30, 2024 7:34:36 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 60
+Nov 30, 2024 7:34:36 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 61
+Nov 30, 2024 7:34:36 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 62
+Nov 30, 2024 7:34:36 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 63
+Nov 30, 2024 7:34:36 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 64
+Nov 30, 2024 7:34:36 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 65
+Nov 30, 2024 7:34:36 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 66
+Nov 30, 2024 7:34:37 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 67
+Nov 30, 2024 7:34:37 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 68
+Nov 30, 2024 7:34:37 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 69
+Nov 30, 2024 7:34:37 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 70
+Nov 30, 2024 7:34:37 AM AppLogger log
+INFO: Vendor 1 released 2 tickets for event: hi
+Nov 30, 2024 7:34:38 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 71
+Nov 30, 2024 7:34:38 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 72
+Nov 30, 2024 7:34:38 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 73
+Nov 30, 2024 7:34:38 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 74
+Nov 30, 2024 7:34:38 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 75
+Nov 30, 2024 7:34:38 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 76
+Nov 30, 2024 7:34:38 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 77
+Nov 30, 2024 7:34:39 AM AppLogger log
+INFO: No tickets available for event: Event5
+Nov 30, 2024 7:34:39 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 78
+Nov 30, 2024 7:34:39 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 79
+Nov 30, 2024 7:34:39 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 80
+Nov 30, 2024 7:34:40 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 81
+Nov 30, 2024 7:34:40 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 82
+Nov 30, 2024 7:34:40 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 83
+Nov 30, 2024 7:34:40 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 84
+Nov 30, 2024 7:34:40 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 85
+Nov 30, 2024 7:34:40 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 86
+Nov 30, 2024 7:34:40 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 87
+Nov 30, 2024 7:34:40 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 88
+Nov 30, 2024 7:34:41 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 89
+Nov 30, 2024 7:34:41 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 90
+Nov 30, 2024 7:34:41 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 91
+Nov 30, 2024 7:34:41 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 92
+Nov 30, 2024 7:34:42 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 93
+Nov 30, 2024 7:34:42 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 94
+Nov 30, 2024 7:34:42 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 95
+Nov 30, 2024 7:34:42 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 96
+Nov 30, 2024 7:34:43 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 97
+Nov 30, 2024 7:34:43 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 98
+Nov 30, 2024 7:34:43 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 99
+Nov 30, 2024 7:34:43 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 100
+Nov 30, 2024 7:34:44 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 101
+Nov 30, 2024 7:34:44 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 102
+Nov 30, 2024 7:34:44 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 103
+Nov 30, 2024 7:34:44 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 104
+Nov 30, 2024 7:34:44 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 105
+Nov 30, 2024 7:34:44 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 106
+Nov 30, 2024 7:34:45 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 107
+Nov 30, 2024 7:34:45 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 108
+Nov 30, 2024 7:34:45 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 109
+Nov 30, 2024 7:34:45 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 110
+Nov 30, 2024 7:34:45 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 111
+Nov 30, 2024 7:34:45 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 112
+Nov 30, 2024 7:34:46 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 113
+Nov 30, 2024 7:34:46 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 114
+Nov 30, 2024 7:34:46 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 115
+Nov 30, 2024 7:34:46 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 116
+Nov 30, 2024 7:34:46 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 117
+Nov 30, 2024 7:34:46 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 118
+Nov 30, 2024 7:34:47 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 119
+Nov 30, 2024 7:34:47 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 120
+Nov 30, 2024 7:34:47 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 121
+Nov 30, 2024 7:34:47 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 122
+Nov 30, 2024 7:34:47 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 123
+Nov 30, 2024 7:34:48 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 124
+Nov 30, 2024 7:34:48 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 125
+Nov 30, 2024 7:34:49 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 126
+Nov 30, 2024 7:34:49 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 127
+Nov 30, 2024 7:34:49 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 128
+Nov 30, 2024 7:34:49 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 129
+Nov 30, 2024 7:34:50 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 130
+Nov 30, 2024 7:34:50 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 131
+Nov 30, 2024 7:34:50 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 132
+Nov 30, 2024 7:34:50 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 133
+Nov 30, 2024 7:34:50 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 134
+Nov 30, 2024 7:34:50 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 135
+Nov 30, 2024 7:34:50 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 136
+Nov 30, 2024 7:34:50 AM AppLogger log
+INFO: Vendor 1 released 5 tickets for event: hi
+Nov 30, 2024 7:34:51 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 137
+Nov 30, 2024 7:34:51 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 138
+Nov 30, 2024 7:34:51 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 139
+Nov 30, 2024 7:34:51 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 140
+Nov 30, 2024 7:34:52 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 141
+Nov 30, 2024 7:34:52 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 142
+Nov 30, 2024 7:34:52 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 143
+Nov 30, 2024 7:34:52 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 144
+Nov 30, 2024 7:34:52 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 145
+Nov 30, 2024 7:34:52 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 146
+Nov 30, 2024 7:34:53 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 147
+Nov 30, 2024 7:34:53 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 148
+Nov 30, 2024 7:34:53 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 149
+Nov 30, 2024 7:34:53 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 150
+Nov 30, 2024 7:34:53 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 151
+Nov 30, 2024 7:34:54 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 152
+Nov 30, 2024 7:34:54 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 153
+Nov 30, 2024 7:34:54 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 154
+Nov 30, 2024 7:34:54 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 155
+Nov 30, 2024 7:34:54 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 156
+Nov 30, 2024 7:34:55 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 157
+Nov 30, 2024 7:34:55 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 158
+Nov 30, 2024 7:34:55 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 159
+Nov 30, 2024 7:34:55 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 160
+Nov 30, 2024 7:34:55 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 161
+Nov 30, 2024 7:34:55 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 162
+Nov 30, 2024 7:34:55 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 163
+Nov 30, 2024 7:34:55 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 164
+Nov 30, 2024 7:34:56 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 165
+Nov 30, 2024 7:34:56 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 166
+Nov 30, 2024 7:34:56 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 167
+Nov 30, 2024 7:34:56 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 168
+Nov 30, 2024 7:34:56 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 169
+Nov 30, 2024 7:34:56 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 170
+Nov 30, 2024 7:34:56 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 171
+Nov 30, 2024 7:34:56 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 172
+Nov 30, 2024 7:34:57 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 173
+Nov 30, 2024 7:34:57 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 174
+Nov 30, 2024 7:34:57 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 175
+Nov 30, 2024 7:34:57 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 176
+Nov 30, 2024 7:34:58 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 177
+Nov 30, 2024 7:34:58 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 178
+Nov 30, 2024 7:34:58 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 179
+Nov 30, 2024 7:34:58 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 180
+Nov 30, 2024 7:34:58 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 181
+Nov 30, 2024 7:34:59 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 182
+Nov 30, 2024 7:34:59 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 183
+Nov 30, 2024 7:34:59 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 184
+Nov 30, 2024 7:34:59 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 185
+Nov 30, 2024 7:35:00 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 186
+Nov 30, 2024 7:35:00 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 187
+Nov 30, 2024 7:35:00 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 188
+Nov 30, 2024 7:35:01 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 189
+Nov 30, 2024 7:35:01 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 190
+Nov 30, 2024 7:35:01 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 191
+Nov 30, 2024 7:35:01 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 192
+Nov 30, 2024 7:35:01 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 193
+Nov 30, 2024 7:35:01 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 194
+Nov 30, 2024 7:35:02 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 195
+Nov 30, 2024 7:35:02 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 196
+Nov 30, 2024 7:35:02 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 197
+Nov 30, 2024 7:35:02 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 198
+Nov 30, 2024 7:35:02 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 199
+Nov 30, 2024 7:35:02 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 200
+Nov 30, 2024 7:35:03 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 201
+Nov 30, 2024 7:35:03 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 202
+Nov 30, 2024 7:35:03 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 203
+Nov 30, 2024 7:35:03 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 204
+Nov 30, 2024 7:35:03 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 205
+Nov 30, 2024 7:35:03 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 206
+Nov 30, 2024 7:35:04 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 207
+Nov 30, 2024 7:35:04 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 208
+Nov 30, 2024 7:35:04 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 209
+Nov 30, 2024 7:35:04 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 210
+Nov 30, 2024 7:35:04 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 211
+Nov 30, 2024 7:35:04 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 212
+Nov 30, 2024 7:35:05 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 213
+Nov 30, 2024 7:35:05 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 214
+Nov 30, 2024 7:35:05 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 215
+Nov 30, 2024 7:35:05 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 216
+Nov 30, 2024 7:35:05 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 217
+Nov 30, 2024 7:35:05 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 218
+Nov 30, 2024 7:35:05 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 219
+Nov 30, 2024 7:35:06 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 220
+Nov 30, 2024 7:35:06 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 221
+Nov 30, 2024 7:35:06 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 222
+Nov 30, 2024 7:35:06 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 223
+Nov 30, 2024 7:35:06 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 224
+Nov 30, 2024 7:35:06 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 225
+Nov 30, 2024 7:35:07 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 226
+Nov 30, 2024 7:35:07 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 227
+Nov 30, 2024 7:35:07 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 228
+Nov 30, 2024 7:35:08 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 229
+Nov 30, 2024 7:35:08 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 230
+Nov 30, 2024 7:35:08 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 231
+Nov 30, 2024 7:35:08 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 232
+Nov 30, 2024 7:35:08 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 233
+Nov 30, 2024 7:35:08 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 234
+Nov 30, 2024 7:35:08 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 235
+Nov 30, 2024 7:35:09 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 236
+Nov 30, 2024 7:35:09 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 237
+Nov 30, 2024 7:35:09 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 238
+Nov 30, 2024 7:35:09 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 239
+Nov 30, 2024 7:35:09 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 240
+Nov 30, 2024 7:35:10 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 241
+Nov 30, 2024 7:35:10 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 242
+Nov 30, 2024 7:35:10 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 243
+Nov 30, 2024 7:35:10 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 244
+Nov 30, 2024 7:35:10 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 245
+Nov 30, 2024 7:35:11 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 246
+Nov 30, 2024 7:35:11 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 247
+Nov 30, 2024 7:35:11 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 248
+Nov 30, 2024 7:35:11 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 249
+Nov 30, 2024 7:35:11 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 250
+Nov 30, 2024 7:35:11 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 251
+Nov 30, 2024 7:35:11 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 252
+Nov 30, 2024 7:35:11 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 253
+Nov 30, 2024 7:35:11 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 254
+Nov 30, 2024 7:35:12 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 255
+Nov 30, 2024 7:35:12 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 256
+Nov 30, 2024 7:35:12 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 257
+Nov 30, 2024 7:35:12 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 258
+Nov 30, 2024 7:35:12 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 259
+Nov 30, 2024 7:35:12 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 260
+Nov 30, 2024 7:35:12 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 261
+Nov 30, 2024 7:35:12 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 262
+Nov 30, 2024 7:35:12 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 263
+Nov 30, 2024 7:35:13 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 264
+Nov 30, 2024 7:35:13 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 265
+Nov 30, 2024 7:35:13 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 266
+Nov 30, 2024 7:35:13 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 267
+Nov 30, 2024 7:35:14 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 268
+Nov 30, 2024 7:35:14 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 269
+Nov 30, 2024 7:35:14 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 270
+Nov 30, 2024 7:35:14 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 271
+Nov 30, 2024 7:35:14 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 272
+Nov 30, 2024 7:35:15 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 273
+Nov 30, 2024 7:35:15 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 274
+Nov 30, 2024 7:35:15 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 275
+Nov 30, 2024 7:35:15 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 276
+Nov 30, 2024 7:35:15 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 277
+Nov 30, 2024 7:35:15 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 278
+Nov 30, 2024 7:35:16 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 279
+Nov 30, 2024 7:35:16 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 280
+Nov 30, 2024 7:35:16 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 281
+Nov 30, 2024 7:35:16 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 282
+Nov 30, 2024 7:35:16 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 283
+Nov 30, 2024 7:35:16 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 284
+Nov 30, 2024 7:35:17 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 285
+Nov 30, 2024 7:35:17 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 286
+Nov 30, 2024 7:35:17 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 287
+Nov 30, 2024 7:35:17 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 288
+Nov 30, 2024 7:35:17 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 289
+Nov 30, 2024 7:35:17 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 290
+Nov 30, 2024 7:35:18 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 291
+Nov 30, 2024 7:35:18 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 292
+Nov 30, 2024 7:35:18 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 293
+Nov 30, 2024 7:35:18 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 294
+Nov 30, 2024 7:35:18 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 295
+Nov 30, 2024 7:35:18 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 296
+Nov 30, 2024 7:35:19 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 297
+Nov 30, 2024 7:35:19 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 298
+Nov 30, 2024 7:35:19 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 299
+Nov 30, 2024 7:35:19 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 300
+Nov 30, 2024 7:35:19 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 301
+Nov 30, 2024 7:35:19 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 302
+Nov 30, 2024 7:35:19 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 303
+Nov 30, 2024 7:35:19 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 304
+Nov 30, 2024 7:35:19 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 305
+Nov 30, 2024 7:35:20 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 306
+Nov 30, 2024 7:35:20 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 307
+Nov 30, 2024 7:35:20 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 308
+Nov 30, 2024 7:35:20 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 309
+Nov 30, 2024 7:35:21 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 310
+Nov 30, 2024 7:35:21 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 311
+Nov 30, 2024 7:35:21 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 312
+Nov 30, 2024 7:35:21 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 313
+Nov 30, 2024 7:35:21 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 314
+Nov 30, 2024 7:35:21 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 315
+Nov 30, 2024 7:35:21 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 316
+Nov 30, 2024 7:35:22 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 317
+Nov 30, 2024 7:35:22 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 318
+Nov 30, 2024 7:35:22 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 319
+Nov 30, 2024 7:35:22 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 320
+Nov 30, 2024 7:35:22 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 321
+Nov 30, 2024 7:35:22 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 322
+Nov 30, 2024 7:35:22 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 323
+Nov 30, 2024 7:35:23 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 324
+Nov 30, 2024 7:35:23 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 325
+Nov 30, 2024 7:35:23 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 326
+Nov 30, 2024 7:35:23 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 327
+Nov 30, 2024 7:35:24 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 328
+Nov 30, 2024 7:35:24 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 329
+Nov 30, 2024 7:35:24 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 330
+Nov 30, 2024 7:35:24 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 331
+Nov 30, 2024 7:35:24 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 332
+Nov 30, 2024 7:35:24 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 333
+Nov 30, 2024 7:35:24 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 334
+Nov 30, 2024 7:35:25 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 335
+Nov 30, 2024 7:35:25 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 336
+Nov 30, 2024 7:35:25 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 337
+Nov 30, 2024 7:35:25 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 338
+Nov 30, 2024 7:35:25 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 339
+Nov 30, 2024 7:39:46 AM AppLogger log
+INFO: System configuration:
+Nov 30, 2024 7:40:00 AM AppLogger log
+INFO: Configuration complete.
+Nov 30, 2024 7:40:20 AM AppLogger log
+INFO: Starting system...
+Nov 30, 2024 7:40:20 AM AppLogger log
+INFO: No tickets available for event: Event1
+Nov 30, 2024 7:40:20 AM AppLogger log
+INFO: No tickets available for event: Event4
+Nov 30, 2024 7:40:20 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 1
+Nov 30, 2024 7:40:20 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 2
+Nov 30, 2024 7:40:20 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 3
+Nov 30, 2024 7:40:20 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 4
+Nov 30, 2024 7:40:20 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 5
+Nov 30, 2024 7:40:20 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 6
+Nov 30, 2024 7:40:20 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 7
+Nov 30, 2024 7:40:20 AM AppLogger log
+INFO: Vendor 1 released 3 tickets for event: hi
+Nov 30, 2024 7:40:20 AM AppLogger log
+INFO: Vendor 2 released 4 tickets for event: bye
+Nov 30, 2024 7:40:22 AM AppLogger log
+INFO: No tickets available for event: Event3
+Nov 30, 2024 7:40:22 AM AppLogger log
+INFO: No tickets available for event: Event5
+Nov 30, 2024 7:40:22 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 8
+Nov 30, 2024 7:40:22 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 9
+Nov 30, 2024 7:40:22 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 10
+Nov 30, 2024 7:40:22 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 11
+Nov 30, 2024 7:40:22 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 12
+Nov 30, 2024 7:40:22 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 13
+Nov 30, 2024 7:40:22 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 14
+Nov 30, 2024 7:40:22 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 15
+Nov 30, 2024 7:40:22 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 16
+Nov 30, 2024 7:40:22 AM AppLogger log
+INFO: Vendor 1 released 5 tickets for event: hi
+Nov 30, 2024 7:40:24 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 17
+Nov 30, 2024 7:40:24 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 18
+Nov 30, 2024 7:40:24 AM AppLogger log
+INFO: Vendor 2 released 2 tickets for event: bye
+Nov 30, 2024 7:40:24 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 19
+Nov 30, 2024 7:40:24 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 20
+Nov 30, 2024 7:40:24 AM AppLogger log
+INFO: Vendor 1 released 2 tickets for event: hi
+Nov 30, 2024 7:40:26 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 21
+Nov 30, 2024 7:40:26 AM AppLogger log
+INFO: Vendor 2 released 1 tickets for event: bye
+Nov 30, 2024 7:40:26 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 22
+Nov 30, 2024 7:40:26 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 23
+Nov 30, 2024 7:40:26 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 24
+Nov 30, 2024 7:40:26 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 25
+Nov 30, 2024 7:40:26 AM AppLogger log
+INFO: Vendor 1 released 4 tickets for event: hi
+Nov 30, 2024 7:40:28 AM AppLogger log
+INFO: No tickets available for event: Event2
+Nov 30, 2024 7:40:28 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 26
+Nov 30, 2024 7:40:28 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 27
+Nov 30, 2024 7:40:28 AM AppLogger log
+INFO: Vendor 1 released 1 tickets for event: hi
+Nov 30, 2024 7:40:30 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 28
+Nov 30, 2024 7:40:30 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 29
+Nov 30, 2024 7:40:30 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 30
+Nov 30, 2024 7:40:30 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 31
+Nov 30, 2024 7:40:31 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 32
+Nov 30, 2024 7:40:31 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 33
+Nov 30, 2024 7:40:33 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 34
+Nov 30, 2024 7:40:33 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 35
+Nov 30, 2024 7:40:33 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 36
+Nov 30, 2024 7:40:33 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 37
+Nov 30, 2024 7:40:33 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 38
+Nov 30, 2024 7:40:35 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 39
+Nov 30, 2024 7:40:35 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 40
+Nov 30, 2024 7:40:35 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 41
+Nov 30, 2024 7:40:35 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 42
+Nov 30, 2024 7:40:35 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 43
+Nov 30, 2024 7:40:35 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 44
+Nov 30, 2024 7:40:37 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 45
+Nov 30, 2024 7:40:37 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 46
+Nov 30, 2024 7:40:37 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 47
+Nov 30, 2024 7:40:37 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 48
+Nov 30, 2024 7:40:37 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 49
+Nov 30, 2024 7:40:37 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 50
+Nov 30, 2024 7:40:37 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 51
+Nov 30, 2024 7:40:39 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 52
+Nov 30, 2024 7:40:39 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 53
+Nov 30, 2024 7:40:39 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 54
+Nov 30, 2024 7:40:39 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 55
+Nov 30, 2024 7:40:39 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 56
+Nov 30, 2024 7:40:39 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 57
+Nov 30, 2024 7:40:39 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 58
+Nov 30, 2024 7:40:39 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 59
+Nov 30, 2024 7:40:39 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 60
+Nov 30, 2024 7:40:41 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 61
+Nov 30, 2024 7:40:41 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 62
+Nov 30, 2024 7:40:41 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 63
+Nov 30, 2024 7:40:41 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 64
+Nov 30, 2024 7:40:41 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 65
+Nov 30, 2024 7:40:41 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 66
+Nov 30, 2024 7:40:41 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 67
+Nov 30, 2024 7:40:41 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 68
+Nov 30, 2024 7:40:43 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 69
+Nov 30, 2024 7:40:43 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 70
+Nov 30, 2024 7:40:43 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 71
+Nov 30, 2024 7:40:43 AM AppLogger log
+INFO: Vendor 2 released 3 tickets for event: bye
+Nov 30, 2024 7:40:43 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 72
+Nov 30, 2024 7:40:45 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 73
+Nov 30, 2024 7:40:45 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 74
+Nov 30, 2024 7:40:45 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 75
+Nov 30, 2024 7:40:45 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 76
+Nov 30, 2024 7:40:47 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 77
+Nov 30, 2024 7:40:47 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 78
+Nov 30, 2024 7:40:47 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 79
+Nov 30, 2024 7:40:47 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 80
+Nov 30, 2024 7:40:47 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 81
+Nov 30, 2024 7:40:47 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 82
+Nov 30, 2024 7:40:49 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 83
+Nov 30, 2024 7:40:49 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 84
+Nov 30, 2024 7:40:49 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 85
+Nov 30, 2024 7:40:49 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 86
+Nov 30, 2024 7:40:49 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 87
+Nov 30, 2024 7:40:51 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 88
+Nov 30, 2024 7:40:51 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 89
+Nov 30, 2024 7:40:51 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 90
+Nov 30, 2024 7:40:51 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 91
+Nov 30, 2024 7:40:51 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 92
+Nov 30, 2024 7:40:51 AM AppLogger log
+INFO: Vendor 2 released 5 tickets for event: bye
+Nov 30, 2024 7:40:51 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 93
+Nov 30, 2024 7:40:51 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 94
+Nov 30, 2024 7:40:51 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 95
+Nov 30, 2024 7:40:53 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 96
+Nov 30, 2024 7:40:53 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 97
+Nov 30, 2024 7:40:53 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 98
+Nov 30, 2024 7:40:53 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 99
+Nov 30, 2024 7:40:53 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 100
+Nov 30, 2024 7:40:53 AM AppLogger log
+INFO: Cannot add more tickets for event: hi. Max capacity reached.
+Nov 30, 2024 7:40:55 AM AppLogger log
+INFO: Cannot add more tickets for event: bye. Max capacity reached.
+Nov 30, 2024 7:42:58 AM AppLogger log
+INFO: System configuration:
+Nov 30, 2024 7:43:06 AM AppLogger log
+INFO: Configuration complete.
+Nov 30, 2024 7:43:16 AM AppLogger log
+INFO: Starting system...
+Nov 30, 2024 7:43:16 AM AppLogger log
+INFO: No tickets available for event: Event2
+Nov 30, 2024 7:43:16 AM AppLogger log
+INFO: No tickets available for event: Event3
+Nov 30, 2024 7:43:16 AM AppLogger log
+INFO: Customer 1 could not buy ticket. No tickets available for event: Event3
+Nov 30, 2024 7:43:16 AM AppLogger log
+INFO: Customer 2 could not buy ticket. No tickets available for event: Event2
+Nov 30, 2024 7:43:16 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 1
+Nov 30, 2024 7:43:16 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 2
+Nov 30, 2024 7:43:16 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 3
+Nov 30, 2024 7:43:16 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 4
+Nov 30, 2024 7:43:17 AM AppLogger log
+INFO: Vendor 2 released 3 tickets for event: bye
+Nov 30, 2024 7:43:17 AM AppLogger log
+INFO: Vendor 1 released 1 tickets for event: hi
+Nov 30, 2024 7:43:18 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 5
+Nov 30, 2024 7:43:18 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 6
+Nov 30, 2024 7:43:18 AM AppLogger log
+INFO: Vendor 2 released 2 tickets for event: bye
+Nov 30, 2024 7:43:18 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 7
+Nov 30, 2024 7:43:18 AM AppLogger log
+INFO: No tickets available for event: Event4
+Nov 30, 2024 7:43:18 AM AppLogger log
+INFO: Customer 2 could not buy ticket. No tickets available for event: Event4
+Nov 30, 2024 7:43:19 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 8
+Nov 30, 2024 7:43:19 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 9
+Nov 30, 2024 7:43:19 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 10
+Nov 30, 2024 7:43:19 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 11
+Nov 30, 2024 7:43:19 AM AppLogger log
+INFO: Vendor 2 released 4 tickets for event: bye
+Nov 30, 2024 7:43:19 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 12
+Nov 30, 2024 7:43:19 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 13
+Nov 30, 2024 7:43:19 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 14
+Nov 30, 2024 7:43:19 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 15
+Nov 30, 2024 7:43:19 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 16
+Nov 30, 2024 7:43:19 AM AppLogger log
+INFO: Vendor 1 released 5 tickets for event: hi
+Nov 30, 2024 7:43:20 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 17
+Nov 30, 2024 7:43:20 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 18
+Nov 30, 2024 7:43:20 AM AppLogger log
+INFO: Vendor 1 released 2 tickets for event: hi
+Nov 30, 2024 7:43:20 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 19
+Nov 30, 2024 7:43:20 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 20
+Nov 30, 2024 7:43:20 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 21
+Nov 30, 2024 7:43:20 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 22
+Nov 30, 2024 7:43:20 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 23
+Nov 30, 2024 7:43:20 AM AppLogger log
+INFO: Vendor 2 released 5 tickets for event: bye
+Nov 30, 2024 7:43:21 AM AppLogger log
+INFO: No tickets available for event: Event1
+Nov 30, 2024 7:43:21 AM AppLogger log
+INFO: Customer 1 could not buy ticket. No tickets available for event: Event1
+Nov 30, 2024 7:43:21 AM AppLogger log
+INFO: No tickets available for event: Event5
+Nov 30, 2024 7:43:21 AM AppLogger log
+INFO: Customer 2 could not buy ticket. No tickets available for event: Event5
+Nov 30, 2024 7:43:21 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 24
+Nov 30, 2024 7:43:21 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 25
+Nov 30, 2024 7:43:21 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 26
+Nov 30, 2024 7:43:22 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 27
+Nov 30, 2024 7:43:22 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 28
+Nov 30, 2024 7:43:22 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 29
+Nov 30, 2024 7:43:22 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 30
+Nov 30, 2024 7:43:22 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 31
+Nov 30, 2024 7:43:22 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 32
+Nov 30, 2024 7:43:22 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 33
+Nov 30, 2024 7:43:22 AM AppLogger log
+INFO: Vendor 1 released 4 tickets for event: hi
+Nov 30, 2024 7:43:23 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 34
+Nov 30, 2024 7:43:23 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 35
+Nov 30, 2024 7:43:23 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 36
+Nov 30, 2024 7:43:23 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 37
+Nov 30, 2024 7:43:24 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 38
+Nov 30, 2024 7:43:24 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 39
+Nov 30, 2024 7:43:24 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 40
+Nov 30, 2024 7:43:24 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 41
+Nov 30, 2024 7:43:24 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 42
+Nov 30, 2024 7:43:24 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 43
+Nov 30, 2024 7:43:25 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 44
+Nov 30, 2024 7:43:25 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 45
+Nov 30, 2024 7:43:25 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 46
+Nov 30, 2024 7:43:25 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 47
+Nov 30, 2024 7:43:26 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 48
+Nov 30, 2024 7:43:26 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 49
+Nov 30, 2024 7:43:26 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 50
+Nov 30, 2024 7:43:26 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 51
+Nov 30, 2024 7:43:26 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 52
+Nov 30, 2024 7:43:26 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 53
+Nov 30, 2024 7:43:26 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 54
+Nov 30, 2024 7:43:27 AM AppLogger log
+INFO: Customer 2 could not buy ticket. No tickets available for event: Event1
+Nov 30, 2024 7:43:27 AM AppLogger log
+INFO: Customer 1 could not buy ticket. No tickets available for event: Event2
+Nov 30, 2024 7:43:27 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 55
+Nov 30, 2024 7:43:27 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 56
+Nov 30, 2024 7:43:27 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 57
+Nov 30, 2024 7:43:27 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 58
+Nov 30, 2024 7:43:28 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 59
+Nov 30, 2024 7:43:28 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 60
+Nov 30, 2024 7:43:28 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 61
+Nov 30, 2024 7:43:28 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 62
+Nov 30, 2024 7:43:28 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 63
+Nov 30, 2024 7:43:28 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 64
+Nov 30, 2024 7:43:29 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 65
+Nov 30, 2024 7:43:29 AM AppLogger log
+INFO: Vendor 2 released 1 tickets for event: bye
+Nov 30, 2024 7:43:29 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 66
+Nov 30, 2024 7:43:29 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 67
+Nov 30, 2024 7:43:29 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 68
+Nov 30, 2024 7:43:29 AM AppLogger log
+INFO: Vendor 1 released 3 tickets for event: hi
+Nov 30, 2024 7:43:30 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 69
+Nov 30, 2024 7:43:30 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 70
+Nov 30, 2024 7:43:30 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 71
+Nov 30, 2024 7:43:30 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 72
+Nov 30, 2024 7:43:30 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 73
+Nov 30, 2024 7:43:30 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 74
+Nov 30, 2024 7:43:31 AM AppLogger log
+INFO: Customer 2 could not buy ticket. No tickets available for event: Event3
+Nov 30, 2024 7:43:31 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 75
+Nov 30, 2024 7:43:31 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 76
+Nov 30, 2024 7:43:31 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 77
+Nov 30, 2024 7:43:31 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 78
+Nov 30, 2024 7:43:31 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 79
+Nov 30, 2024 7:43:31 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 80
+Nov 30, 2024 7:43:31 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 81
+Nov 30, 2024 7:43:31 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 82
+Nov 30, 2024 7:43:31 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 83
+Nov 30, 2024 7:43:32 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 84
+Nov 30, 2024 7:43:32 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 85
+Nov 30, 2024 7:43:33 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 86
+Nov 30, 2024 7:43:33 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 87
+Nov 30, 2024 7:43:33 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 88
+Nov 30, 2024 7:43:33 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 89
+Nov 30, 2024 7:43:33 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 90
+Nov 30, 2024 7:43:33 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 91
+Nov 30, 2024 7:43:34 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 92
+Nov 30, 2024 7:43:34 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 93
+Nov 30, 2024 7:43:34 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 94
+Nov 30, 2024 7:43:35 AM AppLogger log
+INFO: Customer 1 could not buy ticket. No tickets available for event: Event4
+Nov 30, 2024 7:43:35 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 95
+Nov 30, 2024 7:43:35 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 96
+Nov 30, 2024 7:43:35 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 97
+Nov 30, 2024 7:43:35 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 98
+Nov 30, 2024 7:43:35 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 99
+Nov 30, 2024 7:43:35 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 100
+Nov 30, 2024 7:43:35 AM AppLogger log
+INFO: Cannot add more tickets. Max capacity reached for event: hi
+Nov 30, 2024 7:43:36 AM AppLogger log
+INFO: Cannot add more tickets. Max capacity reached for event: bye
+Nov 30, 2024 7:43:39 AM AppLogger log
+INFO: Customer 1 could not buy ticket. No tickets available for event: Event5
+Nov 30, 2024 7:55:54 AM AppLogger log
+INFO: System configuration:
+Nov 30, 2024 7:56:07 AM AppLogger log
+INFO: Configuration complete.
+Nov 30, 2024 7:56:20 AM AppLogger log
+INFO: Starting system...
+Nov 30, 2024 7:56:20 AM AppLogger log
+INFO: No tickets available for event: Event2
+Nov 30, 2024 7:56:20 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 1
+Nov 30, 2024 7:56:20 AM AppLogger log
+INFO: Customer 1 could not buy ticket. No tickets available for event: Event2
+Nov 30, 2024 7:56:20 AM AppLogger log
+INFO: Customer 2 could not buy ticket. No tickets available for event: Event2
+Nov 30, 2024 7:56:20 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 2
+Nov 30, 2024 7:56:20 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 3
+Nov 30, 2024 7:56:20 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 4
+Nov 30, 2024 7:56:20 AM AppLogger log
+INFO: Vendor 1 released 1 tickets for event: hi
+Nov 30, 2024 7:56:20 AM AppLogger log
+INFO: Vendor 2 released 3 tickets for event: bye
+Nov 30, 2024 7:56:21 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 5
+Nov 30, 2024 7:56:21 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 6
+Nov 30, 2024 7:56:21 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 7
+Nov 30, 2024 7:56:21 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 8
+Nov 30, 2024 7:56:21 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 9
+Nov 30, 2024 7:56:21 AM AppLogger log
+INFO: Vendor 2 released 5 tickets for event: bye
+Nov 30, 2024 7:56:21 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 10
+Nov 30, 2024 7:56:22 AM AppLogger log
+INFO: No tickets available for event: Event1
+Nov 30, 2024 7:56:22 AM AppLogger log
+INFO: Customer 1 could not buy ticket. No tickets available for event: Event1
+Nov 30, 2024 7:56:22 AM AppLogger log
+INFO: No tickets available for event: Event5
+Nov 30, 2024 7:56:22 AM AppLogger log
+INFO: Customer 2 could not buy ticket. No tickets available for event: Event5
+Nov 30, 2024 7:56:22 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 11
+Nov 30, 2024 7:56:22 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 12
+Nov 30, 2024 7:56:22 AM AppLogger log
+INFO: Vendor 1 released 2 tickets for event: hi
+Nov 30, 2024 7:56:22 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 13
+Nov 30, 2024 7:56:22 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 14
+Nov 30, 2024 7:56:22 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 15
+Nov 30, 2024 7:56:22 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 16
+Nov 30, 2024 7:56:22 AM AppLogger log
+INFO: Vendor 2 released 4 tickets for event: bye
+Nov 30, 2024 7:56:23 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 17
+Nov 30, 2024 7:56:23 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 18
+Nov 30, 2024 7:56:23 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 19
+Nov 30, 2024 7:56:23 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 20
+Nov 30, 2024 7:56:23 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 21
+Nov 30, 2024 7:56:23 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 22
+Nov 30, 2024 7:56:24 AM AppLogger log
+INFO: No tickets available for event: Event4
+Nov 30, 2024 7:56:24 AM AppLogger log
+INFO: Customer 2 could not buy ticket. No tickets available for event: Event4
+Nov 30, 2024 7:56:24 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 23
+Nov 30, 2024 7:56:24 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 24
+Nov 30, 2024 7:56:24 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 25
+Nov 30, 2024 7:56:24 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 26
+Nov 30, 2024 7:56:24 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 27
+Nov 30, 2024 7:56:24 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 28
+Nov 30, 2024 7:56:24 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 29
+Nov 30, 2024 7:56:24 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 30
+Nov 30, 2024 7:56:24 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 31
+Nov 30, 2024 7:56:24 AM AppLogger log
+INFO: Vendor 1 released 4 tickets for event: hi
+Nov 30, 2024 7:56:25 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 32
+Nov 30, 2024 7:56:25 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 33
+Nov 30, 2024 7:56:25 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 34
+Nov 30, 2024 7:56:25 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 35
+Nov 30, 2024 7:56:25 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 36
+Nov 30, 2024 7:56:25 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 37
+Nov 30, 2024 7:56:25 AM AppLogger log
+INFO: Vendor 1 released 5 tickets for event: hi
+Nov 30, 2024 7:56:25 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 38
+Nov 30, 2024 7:56:25 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 39
+Nov 30, 2024 7:56:25 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 40
+Nov 30, 2024 7:56:25 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 41
+Nov 30, 2024 7:56:26 AM AppLogger log
+INFO: No tickets available for event: Event3
+Nov 30, 2024 7:56:26 AM AppLogger log
+INFO: Customer 1 could not buy ticket. No tickets available for event: Event5
+Nov 30, 2024 7:56:26 AM AppLogger log
+INFO: Customer 2 could not buy ticket. No tickets available for event: Event3
+Nov 30, 2024 7:56:26 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 42
+Nov 30, 2024 7:56:26 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 43
+Nov 30, 2024 7:56:26 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 44
+Nov 30, 2024 7:56:26 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 45
+Nov 30, 2024 7:56:26 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 46
+Nov 30, 2024 7:56:27 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 47
+Nov 30, 2024 7:56:27 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 48
+Nov 30, 2024 7:56:27 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 49
+Nov 30, 2024 7:56:27 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 50
+Nov 30, 2024 7:56:27 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 51
+Nov 30, 2024 7:56:27 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 52
+Nov 30, 2024 7:56:28 AM AppLogger log
+INFO: Customer 1 could not buy ticket. No tickets available for event: Event4
+Nov 30, 2024 7:56:28 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 53
+Nov 30, 2024 7:56:28 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 54
+Nov 30, 2024 7:56:28 AM AppLogger log
+INFO: Vendor 2 released 2 tickets for event: bye
+Nov 30, 2024 7:56:28 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 55
+Nov 30, 2024 7:56:28 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 56
+Nov 30, 2024 7:56:28 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 57
+Nov 30, 2024 7:56:28 AM AppLogger log
+INFO: Vendor 1 released 3 tickets for event: hi
+Nov 30, 2024 7:56:29 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 58
+Nov 30, 2024 7:56:29 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 59
+Nov 30, 2024 7:56:29 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 60
+Nov 30, 2024 7:56:29 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 61
+Nov 30, 2024 7:56:29 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 62
+Nov 30, 2024 7:56:29 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 63
+Nov 30, 2024 7:56:29 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 64
+Nov 30, 2024 7:56:29 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 65
+Nov 30, 2024 7:56:29 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 66
+Nov 30, 2024 7:56:30 AM AppLogger log
+INFO: Customer 2 could not buy ticket. No tickets available for event: Event1
+Nov 30, 2024 7:56:30 AM AppLogger log
+INFO: Customer 1 could not buy ticket. No tickets available for event: Event3
+Nov 30, 2024 7:56:30 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 67
+Nov 30, 2024 7:56:30 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 68
+Nov 30, 2024 7:56:30 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 69
+Nov 30, 2024 7:56:30 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 70
+Nov 30, 2024 7:56:30 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 71
+Nov 30, 2024 7:56:30 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 72
+Nov 30, 2024 7:56:31 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 73
+Nov 30, 2024 7:56:31 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 74
+Nov 30, 2024 7:56:31 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 75
+Nov 30, 2024 7:56:31 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 76
+Nov 30, 2024 7:56:32 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 77
+Nov 30, 2024 7:56:32 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 78
+Nov 30, 2024 7:56:32 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 79
+Nov 30, 2024 7:56:32 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 80
+Nov 30, 2024 7:56:32 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 81
+Nov 30, 2024 7:56:32 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 82
+Nov 30, 2024 7:56:33 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 83
+Nov 30, 2024 7:56:33 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 84
+Nov 30, 2024 7:56:33 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 85
+Nov 30, 2024 7:56:33 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 86
+Nov 30, 2024 7:56:33 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 87
+Nov 30, 2024 7:56:33 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 88
+Nov 30, 2024 7:56:34 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 89
+Nov 30, 2024 7:56:34 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 90
+Nov 30, 2024 7:56:34 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 91
+Nov 30, 2024 7:56:34 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 92
+Nov 30, 2024 7:56:35 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 93
+Nov 30, 2024 7:56:35 AM AppLogger log
+INFO: Added ticket for event: bye, Remaining tickets: 94
+Nov 30, 2024 7:56:35 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 95
+Nov 30, 2024 7:56:35 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 96
+Nov 30, 2024 7:56:35 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 97
+Nov 30, 2024 7:56:36 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 98
+Nov 30, 2024 7:56:36 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 99
+Nov 30, 2024 7:56:36 AM AppLogger log
+INFO: Added ticket for event: hi, Remaining tickets: 100
+Nov 30, 2024 7:56:36 AM AppLogger log
+INFO: Cannot add more tickets. Max capacity reached for event: bye
+Nov 30, 2024 7:56:37 AM AppLogger log
+INFO: Vendor 2 released 1 tickets for event: bye
+Nov 30, 2024 7:56:37 AM AppLogger log
+INFO: Cannot add more tickets. Max capacity reached for event: hi
